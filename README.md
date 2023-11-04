@@ -1,4 +1,5 @@
 ### Hi there 👋
+18岁，害怕过于宁静
 
 <!--
 **Dios-Max/Dios-Max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
